@@ -14,10 +14,10 @@ baseurl: "/beautiful-jekyll"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Beautiful Jekyll
+title: ZwiiCMS-speciale-8.2.5
 
 # Short description of your site
-description: Quickly build a beautiful Jekyll website
+description: ZwiiCMS-speciale-8.2.5
 
 # --- Navigation bar options --- #
 
@@ -27,13 +27,12 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
+  Accueil: ""
   Resources:
     - Getting started: "getstarted"
     - Featured users: "featured-users"
     - Project page: "https://github.com/daattali/beautiful-jekyll#readme"
-  About me: "http://deanattali.com"
-  Support me: "http://deanattali.com/aboutme/#feed-meeee"
+  A propos: "http://deanattali.com"
 
 # --- Footer options --- #
 
